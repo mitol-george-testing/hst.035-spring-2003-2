@@ -1,0 +1,27 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Health and Medicine",
+      "Pathology and Pathophysiology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0714bf7c-458d-8af3-333b-f8d59a82f7b7",
+      "6e230373-d5ea-3f86-8eac-7cb48945daa5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principle and Practice of Human Pathology",
+  "course_description": "This course provides a comprehensive overview of human pathology with emphasis on mechanisms of disease and diagnostic medicine. Topics include:\n\n*   Cellular Mechanisms of Disease\n*   Molecular Pathology\n*   Pathology of Major Organ Systems\n*   Review of Diagnostic Tools from Traditional Surgical Pathology to Diagnostic Spectroscopy\n*   Functional and Molecular Imaging\n*   Molecular Diagnostics\n\nIn addition to lectures, one of the two weekly sessions includes a 2-3 hour laboratory component. Periodically, time will also be devoted to minicases.\n\n##### {{< anchor \"lecturers\" >}}{{< /anchor >}}Lecturers\n\nProf. Jon Aster\n\nProf. Frederick Bieber\n\nProf. Carlo Brugnara\n\nProf. Robert B. Colvin\n\nProf. Christopher Crum\n\nProf. Douglas Dockery\n\nProf. Mel Feany\n\nProf. Michael Feld\n\nProf. Jonathan Fletcher\n\nProf. Michael Gimbrone\n\nProf. Todd Golub\n\nProf. Frank B. Hu\n\nProf. Donald Ingber\n\nProf. Hart Lidov\n\nProf. David Louis\n\nProf. Richard Mitchell\n\nProf. Fiona Murray\n\nProf. Mark Redston\n\nProf. Helmut Rennke\n\nProf. Bruce Rosen\n\nProf. Frederick Schoen\n\nProf. Christine Seidman\n",
+  "department_numbers": [
+    "HST"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "HST.035",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
